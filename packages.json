@@ -1,0 +1,30 @@
+[
+    {
+        "package": "overedge",
+        "url": "https://github.com/elipousson/overedge"
+    },
+    {
+        "package": "birdseyeview",
+        "url": "https://github.com/elipousson/birdseyeview"
+    },
+    {
+        "package": "bingmapr",
+        "url": "https://github.com/elipousson/bingmapr"
+    },
+    {
+        "package": "mapbaltimore",
+        "url": "https://github.com/elipousson/mapbaltimore"
+    },
+    {
+        "package": "bcpss",
+        "url": "https://github.com/elipousson/bcpss"
+    },
+    {
+        "package": "baltimoredata",
+        "url": "https://github.com/elipousson/baltimoredata"
+    },
+    {
+        "package": "crashapi",
+        "url": "https://github.com/elipousson/crashapi"
+    }
+]
