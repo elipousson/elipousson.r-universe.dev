@@ -26,5 +26,9 @@
     {
         "package": "crashapi",
         "url": "https://github.com/elipousson/crashapi"
+    },
+    {
+        "package": "streetmixr",
+        "url": "https://github.com/elipousson/streetmixr"
     }
 ]
