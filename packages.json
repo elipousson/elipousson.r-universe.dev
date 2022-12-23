@@ -1,5 +1,33 @@
 [
     {
+        "package": "sfext",
+        "url": "https://github.com/elipousson/sfext"
+    },
+    {
+        "package": "getdata",
+        "url": "https://github.com/elipousson/getdata"
+    },
+    {
+        "package": "maplayer",
+        "url": "https://github.com/elipousson/maplayer"
+    },
+    {
+        "package": "filenamr",
+        "url": "https://github.com/elipousson/filenamr"
+    },
+    {
+        "package": "cliExtras",
+        "url": "https://github.com/elipousson/cliExtras"
+    },
+    {
+        "package": "papersize",
+        "url": "https://github.com/elipousson/papersize"
+    },
+    {
+        "package": "isstatic",
+        "url": "https://github.com/elipousson/isstatic"
+    },
+    {
         "package": "overedge",
         "url": "https://github.com/elipousson/overedge"
     },
