@@ -28,10 +28,6 @@
         "url": "https://github.com/elipousson/isstatic"
     },
     {
-        "package": "overedge",
-        "url": "https://github.com/elipousson/overedge"
-    },
-    {
         "package": "birdseyeview",
         "url": "https://github.com/elipousson/birdseyeview"
     },
@@ -42,6 +38,14 @@
     {
         "package": "mapbaltimore",
         "url": "https://github.com/elipousson/mapbaltimore"
+    },
+    {
+        "package": "mapmaryland",
+        "url": "https://github.com/elipousson/mapmaryland"
+    },
+    {
+        "package": "marylandedu",
+        "url": "https://github.com/elipousson/marylandedu"
     },
     {
         "package": "bcpss",
@@ -58,5 +62,21 @@
     {
         "package": "streetmixr",
         "url": "https://github.com/elipousson/streetmixr"
+    },
+    {
+        "package": "officerExtras",
+        "url": "https://github.com/elipousson/officerExtras"
+    },
+    {
+        "package": "PDFR",
+        "url": "https://github.com/AllanCameron/PDFR"
+    },
+    {
+        "package": "rgeopackage",
+        "url": "https://github.com/r-spatial/rgeopackage"
+    },
+    {
+        "package": "FlickrAPI",
+        "url": "https://github.com/koki25ando/FlickrAPI"
     }
 ]
