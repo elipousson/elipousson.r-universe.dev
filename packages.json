@@ -1,82 +1,110 @@
 [
-    {
-        "package": "sfext",
-        "url": "https://github.com/elipousson/sfext"
-    },
-    {
-        "package": "getdata",
-        "url": "https://github.com/elipousson/getdata"
-    },
-    {
-        "package": "maplayer",
-        "url": "https://github.com/elipousson/maplayer"
-    },
-    {
-        "package": "filenamr",
-        "url": "https://github.com/elipousson/filenamr"
-    },
-    {
-        "package": "cliExtras",
-        "url": "https://github.com/elipousson/cliExtras"
-    },
-    {
-        "package": "papersize",
-        "url": "https://github.com/elipousson/papersize"
-    },
-    {
-        "package": "isstatic",
-        "url": "https://github.com/elipousson/isstatic"
-    },
-    {
-        "package": "birdseyeview",
-        "url": "https://github.com/elipousson/birdseyeview"
-    },
-    {
-        "package": "bingmapr",
-        "url": "https://github.com/elipousson/bingmapr"
-    },
-    {
-        "package": "mapbaltimore",
-        "url": "https://github.com/elipousson/mapbaltimore"
-    },
-    {
-        "package": "mapmaryland",
-        "url": "https://github.com/elipousson/mapmaryland"
-    },
-    {
-        "package": "marylandedu",
-        "url": "https://github.com/elipousson/marylandedu"
-    },
-    {
-        "package": "bcpss",
-        "url": "https://github.com/elipousson/bcpss"
-    },
-    {
-        "package": "baltimoredata",
-        "url": "https://github.com/elipousson/baltimoredata"
-    },
-    {
-        "package": "crashapi",
-        "url": "https://github.com/elipousson/crashapi"
-    },
-    {
-        "package": "streetmixr",
-        "url": "https://github.com/elipousson/streetmixr"
-    },
-    {
-        "package": "officerExtras",
-        "url": "https://github.com/elipousson/officerExtras"
-    },
-    {
-        "package": "PDFR",
-        "url": "https://github.com/AllanCameron/PDFR"
-    },
-    {
-        "package": "rgeopackage",
-        "url": "https://github.com/r-spatial/rgeopackage"
-    },
-    {
-        "package": "FlickrAPI",
-        "url": "https://github.com/koki25ando/FlickrAPI"
-    }
+  {
+    "package": "sharepointr",
+    "url": "https://github.com/elipousson/sharepointr"
+  },
+  {
+    "package": "maplayer",
+    "url": "https://github.com/elipousson/maplayer"
+  },
+  {
+    "package": "sfext",
+    "url": "https://github.com/elipousson/sfext"
+  },
+  {
+    "package": "getACS",
+    "url": "https://github.com/elipousson/getACS"
+  },
+  {
+    "package": "esri2sf",
+    "url": "https://github.com/elipousson/esri2sf"
+  },
+  {
+    "package": "idmlr",
+    "url": "https://github.com/elipousson/idmlr"
+  },
+  {
+    "package": "standaloner",
+    "url": "https://github.com/elipousson/standaloner"
+  },
+  {
+    "package": "feltr",
+    "url": "https://github.com/elipousson/feltr"
+  },
+  {
+    "package": "getdata",
+    "url": "https://github.com/elipousson/getdata"
+  },
+  {
+    "package": "maplayer",
+    "url": "https://github.com/elipousson/maplayer"
+  },
+  {
+    "package": "filenamr",
+    "url": "https://github.com/elipousson/filenamr"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras"
+  },
+  {
+    "package": "papersize",
+    "url": "https://github.com/elipousson/papersize"
+  },
+  {
+    "package": "isstatic",
+    "url": "https://github.com/elipousson/isstatic"
+  },
+  {
+    "package": "birdseyeview",
+    "url": "https://github.com/elipousson/birdseyeview"
+  },
+  {
+    "package": "bingmapr",
+    "url": "https://github.com/elipousson/bingmapr"
+  },
+  {
+    "package": "mapbaltimore",
+    "url": "https://github.com/elipousson/mapbaltimore"
+  },
+  {
+    "package": "mapmaryland",
+    "url": "https://github.com/elipousson/mapmaryland"
+  },
+  {
+    "package": "marylandedu",
+    "url": "https://github.com/elipousson/marylandedu"
+  },
+  {
+    "package": "bcpss",
+    "url": "https://github.com/elipousson/bcpss"
+  },
+  {
+    "package": "baltimoredata",
+    "url": "https://github.com/elipousson/baltimoredata"
+  },
+  {
+    "package": "crashapi",
+    "url": "https://github.com/elipousson/crashapi"
+  },
+  {
+    "package": "streetmixr",
+    "url": "https://github.com/elipousson/streetmixr"
+  },
+  {
+    "package": "officerExtras",
+    "url": "https://github.com/elipousson/officerExtras"
+  },
+  {
+    "package": "PDFR",
+    "url": "https://github.com/AllanCameron/PDFR"
+  },
+  {
+    "package": "rgeopackage",
+    "url": "https://github.com/r-spatial/rgeopackage"
+  },
+  {
+    "package": "FlickrAPI",
+    "url": "https://github.com/koki25ando/FlickrAPI"
+  }
 ]
