@@ -20,6 +20,14 @@
     "url": "https://github.com/elipousson/esri2sf"
   },
   {
+    "package": "d2r",
+    "url": "https://github.com/elipousson/d2r"
+  },
+  {
+    "package": "legistarapi",
+    "url": "https://github.com/elipousson/legistarapi"
+  },
+  {
     "package": "idmlr",
     "url": "https://github.com/elipousson/idmlr"
   },
