@@ -96,6 +96,10 @@
     "url": "https://github.com/elipousson/officerExtras"
   },
   {
+    "package": "openxlsx2Extras",
+    "url": "https://github.com/elipousson/openxlsx2Extras"
+  },
+  {
     "package": "PDFR",
     "url": "https://github.com/AllanCameron/PDFR"
   },
